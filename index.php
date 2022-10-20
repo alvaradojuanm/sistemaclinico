@@ -25,6 +25,7 @@
 	}
 	
 	// Application configurations Settings
+	// Application configurations Settings
 
 	/**
      * Initialize Model Class From Model Dir
@@ -79,6 +80,7 @@
 	
 	
 	//Initialize Global Functions Helpers
+	//Initialize Global Functions Helpers
 	require(HELPERS_DIR . 'Functions.php');
 
 	$lang = new Lang;// Initialize language class and load default language phrases
@@ -99,6 +101,7 @@
 		exit;
 	}
 
+	//Display application exception in a custom page
 	//Display application exception in a custom page
 	set_exception_handler('exception_handler');
 
