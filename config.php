@@ -1,7 +1,9 @@
 <?php
-define("DEFAULT_TIMEZONE", "America/El_Salvador"); // set php date functions timezone
+define("DEFAULT_TIMEZONE", "America/Caracas"); // set php date functions timezone
 define("DEVELOPMENT_MODE" , true);// set to false when in production
 
+// return full path of application directory
+// return full path of application directory
 // return full path of application directory
 define("ROOT", str_replace("\\", "/", dirname(__FILE__)) . "/");
 

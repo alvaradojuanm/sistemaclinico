@@ -26,6 +26,8 @@
 	
 	// Application configurations Settings
 	// Application configurations Settings
+	// Application configurations Settings
+	// Application configurations Settings
 
 	/**
      * Initialize Model Class From Model Dir
@@ -79,6 +81,8 @@
 	
 	
 	
+	//Initialize Global Functions Helpers
+	//Initialize Global Functions Helpers
 	//Initialize Global Functions Helpers
 	//Initialize Global Functions Helpers
 	require(HELPERS_DIR . 'Functions.php');
