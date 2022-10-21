@@ -25,9 +25,7 @@
 	}
 	
 	// Application configurations Settings
-	// Application configurations Settings
-	// Application configurations Settings
-	// Application configurations Settings
+	// Ultimo Cambio
 
 	/**
      * Initialize Model Class From Model Dir
@@ -105,6 +103,8 @@
 		exit;
 	}
 
+	//Display application exception in a custom page
+	//Display application exception in a custom page
 	//Display application exception in a custom page
 	//Display application exception in a custom page
 	set_exception_handler('exception_handler');

@@ -3,8 +3,7 @@ define("DEFAULT_TIMEZONE", "America/Caracas"); // set php date functions timezon
 define("DEVELOPMENT_MODE" , true);// set to false when in production
 
 // return full path of application directory
-// return full path of application directory
-// return full path of application directory
+// Ultimo Cambio
 define("ROOT", str_replace("\\", "/", dirname(__FILE__)) . "/");
 
 // return the application directory name.
